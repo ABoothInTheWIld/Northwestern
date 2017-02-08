@@ -11,13 +11,9 @@ import matplotlib.pyplot
 from matplotlib.pyplot import *
 
 def f(x):
-
     # A function to generate example y values
-    
     r = random.random()
-    
     y = x-10*r-x**r
-    
     return y
 
 random.seed(352) # Ensures that we all generate the same random numbers
