@@ -1,0 +1,1026 @@
+
+AA Logistic Results
+===============================================
+                        Dependent variable:    
+                    ---------------------------
+                       MLB Career >= 3 Years   
+-----------------------------------------------
+Rk_Avg_AB                       0.1            
+                               (0.1)           
+                                               
+Rk_Avg_AB_HR                  -0.001           
+                              (0.001)          
+                                               
+Rk_Avg_Age                    0.1***           
+                              (0.03)           
+                                               
+Rk_Avg_BABIP                  -0.004           
+                               (1.1)           
+                                               
+Rk_Avg_Bavg                    -3.3            
+                               (2.1)           
+                                               
+Rk_Avg_BB                      0.02            
+                               (0.3)           
+                                               
+Rk_Avg_BBpct                   36.5            
+                             (4,799.1)         
+                                               
+Rk_Avg_CS                       0.8            
+                               (1.9)           
+                                               
+Rk_Avg_Dbl                      0.5            
+                               (0.8)           
+                                               
+Rk_Avg_G                      0.01**           
+                              (0.004)          
+                                               
+Rk_Avg_GDP                      0.6            
+                               (1.3)           
+                                               
+Rk_Avg_H                        0.1            
+                               (0.1)           
+                                               
+Rk_Avg_HBP                     -0.1            
+                               (1.4)           
+                                               
+Rk_Avg_HR                      -0.3            
+                               (1.8)           
+                                               
+Rk_Avg_IBB                                     
+                                               
+                                               
+Rk_Avg_ISO                     -2.6*           
+                               (1.5)           
+                                               
+Rk_Avg_K_BB                    -0.1            
+                              (0.04)           
+                                               
+Rk_Avg_OBP                                     
+                                               
+                                               
+Rk_Avg_OPS                     0.04            
+                               (0.2)           
+                                               
+Rk_Avg_orgs                    -9.2            
+                              (11.5)           
+                                               
+Rk_Avg_PA                      -0.2            
+                               (0.1)           
+                                               
+Rk_Avg_R                       -0.03           
+                               (0.2)           
+                                               
+Rk_Avg_RBI                     0.5**           
+                               (0.2)           
+                                               
+Rk_Avg_SB                      -0.9            
+                               (0.9)           
+                                               
+Rk_Avg_SecA                     0.4            
+                               (0.6)           
+                                               
+Rk_Avg_SF                      -0.7            
+                               (1.1)           
+                                               
+Rk_Avg_SH                      -25.2           
+                             (4,799.1)         
+                                               
+Rk_Avg_SLG                      0.4            
+                               (0.5)           
+                                               
+Rk_Avg_SO                       0.1            
+                               (0.2)           
+                                               
+Rk_Avg_SOpct                   -26.6           
+                              (985.3)          
+                                               
+Rk_Avg_TB                      -0.1            
+                               (0.1)           
+                                               
+Rk_Avg_teams                   -0.5*           
+                               (0.3)           
+                                               
+Rk_Avg_Tpl                     -41.1           
+                             (1,347.7)         
+                                               
+Rk_Avg_wOBA                    3.1*            
+                               (1.7)           
+                                               
+Rk_Avg_wRAA                   -0.02**          
+                              (0.01)           
+                                               
+Rk_Avg_XBH                     0.002           
+                               (0.2)           
+                                               
+Rk_Avg_XBHpct                  -0.1            
+                               (0.1)           
+                                               
+M_Rk_Avg_AB                    -7.9            
+                              (11.5)           
+                                               
+M_Rk_Avg_AB_HR                                 
+                                               
+                                               
+M_Rk_Avg_Age                                   
+                                               
+                                               
+M_Rk_Avg_BABIP                                 
+                                               
+                                               
+M_Rk_Avg_Bavg                                  
+                                               
+                                               
+M_Rk_Avg_BB                                    
+                                               
+                                               
+M_Rk_Avg_BBpct                                 
+                                               
+                                               
+M_Rk_Avg_CS                                    
+                                               
+                                               
+M_Rk_Avg_Dbl                                   
+                                               
+                                               
+M_Rk_Avg_G                                     
+                                               
+                                               
+M_Rk_Avg_GDP                                   
+                                               
+                                               
+M_Rk_Avg_H                                     
+                                               
+                                               
+M_Rk_Avg_HBP                                   
+                                               
+                                               
+M_Rk_Avg_HR                                    
+                                               
+                                               
+M_Rk_Avg_HRpct                                 
+                                               
+                                               
+M_Rk_Avg_IBB                                   
+                                               
+                                               
+M_Rk_Avg_ISO                                   
+                                               
+                                               
+M_Rk_Avg_K_BB                                  
+                                               
+                                               
+M_Rk_Avg_OBP                                   
+                                               
+                                               
+M_Rk_Avg_OPS                                   
+                                               
+                                               
+M_Rk_Avg_orgs                                  
+                                               
+                                               
+M_Rk_Avg_PA                                    
+                                               
+                                               
+M_Rk_Avg_R                                     
+                                               
+                                               
+M_Rk_Avg_RBI                                   
+                                               
+                                               
+M_Rk_Avg_SB                                    
+                                               
+                                               
+M_Rk_Avg_SecA                                  
+                                               
+                                               
+M_Rk_Avg_SF                                    
+                                               
+                                               
+M_Rk_Avg_SH                                    
+                                               
+                                               
+M_Rk_Avg_SLG                                   
+                                               
+                                               
+M_Rk_Avg_SO                                    
+                                               
+                                               
+M_Rk_Avg_SOpct                                 
+                                               
+                                               
+M_Rk_Avg_TB                                    
+                                               
+                                               
+M_Rk_Avg_teams                                 
+                                               
+                                               
+M_Rk_Avg_Tpl                                   
+                                               
+                                               
+M_Rk_Avg_wOBA                                  
+                                               
+                                               
+M_Rk_Avg_wRAA                                  
+                                               
+                                               
+M_Rk_Avg_XBH                                   
+                                               
+                                               
+M_Rk_Avg_XBHpct                                
+                                               
+                                               
+Low_A_Avg_AB                   -0.2            
+                               (0.1)           
+                                               
+Low_A_Avg_AB_HR                0.001           
+                              (0.001)          
+                                               
+Low_A_Avg_Age                  -0.03           
+                              (0.03)           
+                                               
+Low_A_Avg_BABIP                -0.3            
+                               (1.6)           
+                                               
+Low_A_Avg_Bavg                 -25.4           
+                             (2,399.6)         
+                                               
+Low_A_Avg_BB                   -0.1            
+                               (0.4)           
+                                               
+Low_A_Avg_BBpct                                
+                                               
+                                               
+Low_A_Avg_CS                    7.1            
+                               (7.4)           
+                                               
+Low_A_Avg_Dbl                  -0.6            
+                               (1.6)           
+                                               
+Low_A_Avg_G                    0.000           
+                              (0.004)          
+                                               
+Low_A_Avg_GDP                  -5.5            
+                               (7.4)           
+                                               
+Low_A_Avg_H                     0.2            
+                               (0.1)           
+                                               
+Low_A_Avg_HBP                   2.5            
+                               (4.2)           
+                                               
+Low_A_Avg_HR                    6.8            
+                               (6.6)           
+                                               
+Low_A_Avg_HRpct                                
+                                               
+                                               
+Low_A_Avg_ISO                  -0.6            
+                               (3.0)           
+                                               
+Low_A_Avg_K_BB                 -0.03           
+                              (0.04)           
+                                               
+Low_A_Avg_OBP                                  
+                                               
+                                               
+Low_A_Avg_OPS                   0.3            
+                               (0.2)           
+                                               
+Low_A_Avg_orgs                 -36.3           
+                             (2,811.4)         
+                                               
+Low_A_Avg_PA                    0.2            
+                               (0.1)           
+                                               
+Low_A_Avg_R                     0.3            
+                               (0.3)           
+                                               
+Low_A_Avg_RBI                  0.7**           
+                               (0.3)           
+                                               
+Low_A_Avg_SB                    2.0            
+                               (2.6)           
+                                               
+Low_A_Avg_SecA                 -0.3            
+                               (1.1)           
+                                               
+Low_A_Avg_SLG                   1.0            
+                               (0.8)           
+                                               
+Low_A_Avg_SO                    0.1            
+                               (0.2)           
+                                               
+Low_A_Avg_SOpct                -21.5           
+                             (1,789.5)         
+                                               
+Low_A_Avg_TB                    0.1            
+                               (0.2)           
+                                               
+Low_A_Avg_teams                18.4            
+                             (2,399.5)         
+                                               
+Low_A_Avg_Tpl                   0.7            
+                               (4.2)           
+                                               
+Low_A_Avg_wOBA                  0.2            
+                               (3.4)           
+                                               
+Low_A_Avg_wRAA                 -0.01           
+                              (0.01)           
+                                               
+Low_A_Avg_XBH                  -0.2            
+                               (0.2)           
+                                               
+Low_A_Avg_XBHpct               -0.1            
+                               (0.2)           
+                                               
+M_Low_A_Avg_AB                 -17.9           
+                             (1,464.9)         
+                                               
+M_Low_A_Avg_AB_HR                              
+                                               
+                                               
+M_Low_A_Avg_Age                                
+                                               
+                                               
+M_Low_A_Avg_BABIP                              
+                                               
+                                               
+M_Low_A_Avg_Bavg                               
+                                               
+                                               
+M_Low_A_Avg_BB                                 
+                                               
+                                               
+M_Low_A_Avg_BBpct                              
+                                               
+                                               
+M_Low_A_Avg_CS                                 
+                                               
+                                               
+M_Low_A_Avg_Dbl                                
+                                               
+                                               
+M_Low_A_Avg_G                                  
+                                               
+                                               
+M_Low_A_Avg_GDP                                
+                                               
+                                               
+M_Low_A_Avg_H                                  
+                                               
+                                               
+M_Low_A_Avg_HBP                                
+                                               
+                                               
+M_Low_A_Avg_HR                                 
+                                               
+                                               
+M_Low_A_Avg_HRpct                              
+                                               
+                                               
+M_Low_A_Avg_IBB                                
+                                               
+                                               
+M_Low_A_Avg_ISO                                
+                                               
+                                               
+M_Low_A_Avg_K_BB                               
+                                               
+                                               
+M_Low_A_Avg_OBP                                
+                                               
+                                               
+M_Low_A_Avg_OPS                                
+                                               
+                                               
+M_Low_A_Avg_orgs                               
+                                               
+                                               
+M_Low_A_Avg_PA                                 
+                                               
+                                               
+M_Low_A_Avg_R                                  
+                                               
+                                               
+M_Low_A_Avg_RBI                                
+                                               
+                                               
+M_Low_A_Avg_SB                                 
+                                               
+                                               
+M_Low_A_Avg_SecA                               
+                                               
+                                               
+M_Low_A_Avg_SF                                 
+                                               
+                                               
+M_Low_A_Avg_SH                                 
+                                               
+                                               
+M_Low_A_Avg_SLG                                
+                                               
+                                               
+M_Low_A_Avg_SO                                 
+                                               
+                                               
+M_Low_A_Avg_SOpct                              
+                                               
+                                               
+M_Low_A_Avg_TB                                 
+                                               
+                                               
+M_Low_A_Avg_teams                              
+                                               
+                                               
+M_Low_A_Avg_Tpl                                
+                                               
+                                               
+M_Low_A_Avg_wOBA                               
+                                               
+                                               
+M_Low_A_Avg_wRAA                               
+                                               
+                                               
+M_Low_A_Avg_XBH                                
+                                               
+                                               
+M_Low_A_Avg_XBHpct                             
+                                               
+                                               
+AA_Avg_AB                     0.7***           
+                               (0.1)           
+                                               
+AA_Avg_AB_HR                  0.001**          
+                              (0.001)          
+                                               
+AA_Avg_Age                    -0.3***          
+                              (0.02)           
+                                               
+AA_Avg_BABIP                   0.02            
+                               (1.4)           
+                                               
+AA_Avg_Bavg                     9.6            
+                             (2,091.1)         
+                                               
+AA_Avg_BB                     1.8***           
+                               (0.4)           
+                                               
+AA_Avg_BBpct                   -10.0           
+                             (2,411.9)         
+                                               
+AA_Avg_CS                      -3.2            
+                               (2.0)           
+                                               
+AA_Avg_Dbl                     -1.7*           
+                               (0.9)           
+                                               
+AA_Avg_G                       0.001           
+                              (0.002)          
+                                               
+AA_Avg_GDP                     -3.6            
+                               (2.4)           
+                                               
+AA_Avg_H                      0.5***           
+                               (0.1)           
+                                               
+AA_Avg_HBP                      2.1            
+                               (2.3)           
+                                               
+AA_Avg_HR                      -2.6            
+                               (2.1)           
+                                               
+AA_Avg_IBB                     -17.6           
+                             (2,399.5)         
+                                               
+AA_Avg_ISO                      0.4            
+                               (1.5)           
+                                               
+AA_Avg_K_BB                   -0.1***          
+                              (0.03)           
+                                               
+AA_Avg_OBP                     -10.7           
+                             (2,091.1)         
+                                               
+AA_Avg_OPS                      0.3            
+                               (0.2)           
+                                               
+AA_Avg_orgs                    14.7            
+                             (1,663.2)         
+                                               
+AA_Avg_PA                     0.7***           
+                               (0.1)           
+                                               
+AA_Avg_R                        0.3            
+                               (0.4)           
+                                               
+AA_Avg_RBI                     -0.2            
+                               (0.3)           
+                                               
+AA_Avg_SB                      -1.8*           
+                               (1.1)           
+                                               
+AA_Avg_SecA                     0.4            
+                               (0.9)           
+                                               
+AA_Avg_SF                      -27.1           
+                             (3,355.9)         
+                                               
+AA_Avg_SH                      -47.5           
+                             (1,914.7)         
+                                               
+AA_Avg_SLG                      0.5            
+                               (0.6)           
+                                               
+AA_Avg_SO                     -0.6***          
+                               (0.1)           
+                                               
+AA_Avg_SOpct                   2.1**           
+                               (1.0)           
+                                               
+AA_Avg_TB                      0.2**           
+                               (0.1)           
+                                               
+AA_Avg_teams                   -15.2           
+                             (1,663.2)         
+                                               
+AA_Avg_Tpl                     -41.6           
+                             (2,892.1)         
+                                               
+AA_Avg_wOBA                     0.3            
+                               (1.8)           
+                                               
+AA_Avg_wRAA                   0.02***          
+                              (0.004)          
+                                               
+AA_Avg_XBH                      0.3            
+                               (0.2)           
+                                               
+AA_Avg_XBHpct                  0.2*            
+                               (0.1)           
+                                               
+A_Avg_AB                        0.1            
+                               (0.1)           
+                                               
+A_Avg_AB_HR                   -0.000           
+                              (0.001)          
+                                               
+A_Avg_Age                     -0.2***          
+                              (0.03)           
+                                               
+A_Avg_BABIP                    -26.5           
+                             (1,674.2)         
+                                               
+A_Avg_Bavg                     37.2            
+                             (8,699.3)         
+                                               
+A_Avg_BB                       1.2**           
+                               (0.5)           
+                                               
+A_Avg_BBpct                    14.8            
+                             (8,858.9)         
+                                               
+A_Avg_CS                        2.2            
+                               (4.5)           
+                                               
+A_Avg_Dbl                       0.6            
+                               (1.2)           
+                                               
+A_Avg_G                       0.01***          
+                              (0.002)          
+                                               
+A_Avg_GDP                      2.7*            
+                               (1.6)           
+                                               
+A_Avg_H                        0.2*            
+                               (0.1)           
+                                               
+A_Avg_HBP                      -43.3           
+                             (4,119.4)         
+                                               
+A_Avg_HR                       -0.1            
+                               (5.2)           
+                                               
+A_Avg_IBB                      -28.1           
+                             (4,799.1)         
+                                               
+A_Avg_ISO                      -1.8            
+                               (2.8)           
+                                               
+A_Avg_K_BB                     -0.02           
+                              (0.03)           
+                                               
+A_Avg_OBP                      -12.9           
+                             (8,858.9)         
+                                               
+A_Avg_OPS                      0.5**           
+                               (0.2)           
+                                               
+A_Avg_orgs                     40.8            
+                              (908.9)          
+                                               
+A_Avg_PA                      -0.3**           
+                               (0.1)           
+                                               
+A_Avg_R                        1.0**           
+                               (0.5)           
+                                               
+A_Avg_RBI                      1.2**           
+                               (0.5)           
+                                               
+A_Avg_SB                       -0.5            
+                               (1.3)           
+                                               
+A_Avg_SecA                     1.6*            
+                               (0.9)           
+                                               
+A_Avg_SF                       -33.7           
+                             (4,799.1)         
+                                               
+A_Avg_SH                        0.3            
+                               (2.1)           
+                                               
+A_Avg_SLG                       0.3            
+                               (0.8)           
+                                               
+A_Avg_SO                        0.2            
+                               (0.2)           
+                                               
+A_Avg_SOpct                    7.8**           
+                               (3.4)           
+                                               
+A_Avg_TB                        0.1            
+                               (0.1)           
+                                               
+A_Avg_teams                    -42.4           
+                              (908.9)          
+                                               
+A_Avg_Tpl                      23.5            
+                             (4,799.1)         
+                                               
+A_Avg_wOBA                     -0.6            
+                               (3.6)           
+                                               
+A_Avg_wRAA                    -0.01**          
+                              (0.004)          
+                                               
+A_Avg_XBH                       0.2            
+                               (0.2)           
+                                               
+A_Avg_XBHpct                   -0.2            
+                               (0.2)           
+                                               
+High_A_Avg_AB                  0.3**           
+                               (0.1)           
+                                               
+High_A_Avg_AB_HR             -0.001**          
+                              (0.001)          
+                                               
+High_A_Avg_Age                 -0.03           
+                              (0.03)           
+                                               
+High_A_Avg_BABIP               2.8*            
+                               (1.5)           
+                                               
+High_A_Avg_Bavg                -3.5            
+                             (5,100.1)         
+                                               
+High_A_Avg_BB                 1.3***           
+                               (0.4)           
+                                               
+High_A_Avg_BBpct               -46.3           
+                             (6,530.0)         
+                                               
+High_A_Avg_CS                   0.2            
+                               (2.3)           
+                                               
+High_A_Avg_Dbl                  1.5            
+                               (0.9)           
+                                               
+High_A_Avg_G                 -0.004**          
+                              (0.002)          
+                                               
+High_A_Avg_GDP                  2.1            
+                               (1.4)           
+                                               
+High_A_Avg_H                   0.02            
+                               (0.1)           
+                                               
+High_A_Avg_HBP                  2.0            
+                               (2.0)           
+                                               
+High_A_Avg_HR                  -7.9            
+                               (4.9)           
+                                               
+High_A_Avg_IBB                  7.3            
+                             (2,399.5)         
+                                               
+High_A_Avg_ISO                  0.7            
+                               (2.7)           
+                                               
+High_A_Avg_K_BB               -0.1***          
+                              (0.04)           
+                                               
+High_A_Avg_OBP                  2.5            
+                             (5,100.1)         
+                                               
+High_A_Avg_OPS                  0.1            
+                               (0.2)           
+                                               
+High_A_Avg_orgs                -1.0            
+                               (0.9)           
+                                               
+High_A_Avg_PA                 -0.003           
+                               (0.1)           
+                                               
+High_A_Avg_R                  1.2***           
+                               (0.3)           
+                                               
+High_A_Avg_RBI                 0.7**           
+                               (0.3)           
+                                               
+High_A_Avg_SB                  -0.3            
+                               (1.3)           
+                                               
+High_A_Avg_SecA                -1.1            
+                               (0.9)           
+                                               
+High_A_Avg_SF                  33.2            
+                             (1,726.3)         
+                                               
+High_A_Avg_SH                   4.6            
+                               (4.0)           
+                                               
+High_A_Avg_SLG                 0.03            
+                               (0.7)           
+                                               
+High_A_Avg_SO                  -0.1            
+                               (0.2)           
+                                               
+High_A_Avg_SOpct                1.2            
+                               (3.1)           
+                                               
+High_A_Avg_TB                  -0.1            
+                               (0.1)           
+                                               
+High_A_Avg_teams                0.3            
+                               (0.8)           
+                                               
+High_A_Avg_Tpl                  4.2            
+                               (4.6)           
+                                               
+High_A_Avg_wOBA                 0.8            
+                               (2.5)           
+                                               
+High_A_Avg_wRAA                0.001           
+                              (0.004)          
+                                               
+High_A_Avg_XBH                 -0.1            
+                               (0.2)           
+                                               
+High_A_Avg_XBHpct              0.3**           
+                               (0.1)           
+                                               
+M_A_Avg_AB                    -5.4***          
+                               (1.2)           
+                                               
+M_A_Avg_AB_HR                                  
+                                               
+                                               
+M_A_Avg_Age                                    
+                                               
+                                               
+M_A_Avg_BABIP                                  
+                                               
+                                               
+M_A_Avg_Bavg                                   
+                                               
+                                               
+M_A_Avg_BB                                     
+                                               
+                                               
+M_A_Avg_BBpct                                  
+                                               
+                                               
+M_A_Avg_CS                                     
+                                               
+                                               
+M_A_Avg_Dbl                                    
+                                               
+                                               
+M_A_Avg_G                                      
+                                               
+                                               
+M_A_Avg_GDP                                    
+                                               
+                                               
+M_A_Avg_H                                      
+                                               
+                                               
+M_A_Avg_HBP                                    
+                                               
+                                               
+M_A_Avg_HR                                     
+                                               
+                                               
+M_A_Avg_HRpct                                  
+                                               
+                                               
+M_A_Avg_IBB                                    
+                                               
+                                               
+M_A_Avg_ISO                                    
+                                               
+                                               
+M_A_Avg_K_BB                                   
+                                               
+                                               
+M_A_Avg_OBP                                    
+                                               
+                                               
+M_A_Avg_OPS                                    
+                                               
+                                               
+M_A_Avg_orgs                                   
+                                               
+                                               
+M_A_Avg_PA                                     
+                                               
+                                               
+M_A_Avg_R                                      
+                                               
+                                               
+M_A_Avg_RBI                                    
+                                               
+                                               
+M_A_Avg_SB                                     
+                                               
+                                               
+M_A_Avg_SecA                                   
+                                               
+                                               
+M_A_Avg_SF                                     
+                                               
+                                               
+M_A_Avg_SH                                     
+                                               
+                                               
+M_A_Avg_SLG                                    
+                                               
+                                               
+M_A_Avg_SO                                     
+                                               
+                                               
+M_A_Avg_SOpct                                  
+                                               
+                                               
+M_A_Avg_TB                                     
+                                               
+                                               
+M_A_Avg_teams                                  
+                                               
+                                               
+M_A_Avg_Tpl                                    
+                                               
+                                               
+M_A_Avg_wOBA                                   
+                                               
+                                               
+M_A_Avg_wRAA                                   
+                                               
+                                               
+M_A_Avg_XBH                                    
+                                               
+                                               
+M_A_Avg_XBHpct                                 
+                                               
+                                               
+M_High_A_Avg_AB                -1.0            
+                               (0.9)           
+                                               
+M_High_A_Avg_AB_HR                             
+                                               
+                                               
+M_High_A_Avg_Age                               
+                                               
+                                               
+M_High_A_Avg_BABIP                             
+                                               
+                                               
+M_High_A_Avg_Bavg                              
+                                               
+                                               
+M_High_A_Avg_BB                                
+                                               
+                                               
+M_High_A_Avg_BBpct                             
+                                               
+                                               
+M_High_A_Avg_CS                                
+                                               
+                                               
+M_High_A_Avg_Dbl                               
+                                               
+                                               
+M_High_A_Avg_G                                 
+                                               
+                                               
+M_High_A_Avg_GDP                               
+                                               
+                                               
+M_High_A_Avg_H                                 
+                                               
+                                               
+M_High_A_Avg_HBP                               
+                                               
+                                               
+M_High_A_Avg_HR                                
+                                               
+                                               
+M_High_A_Avg_HRpct                             
+                                               
+                                               
+M_High_A_Avg_IBB                               
+                                               
+                                               
+M_High_A_Avg_ISO                               
+                                               
+                                               
+M_High_A_Avg_K_BB                              
+                                               
+                                               
+M_High_A_Avg_OBP                               
+                                               
+                                               
+M_High_A_Avg_OPS                               
+                                               
+                                               
+M_High_A_Avg_orgs                              
+                                               
+                                               
+M_High_A_Avg_PA                                
+                                               
+                                               
+M_High_A_Avg_R                                 
+                                               
+                                               
+M_High_A_Avg_RBI                               
+                                               
+                                               
+M_High_A_Avg_SB                                
+                                               
+                                               
+M_High_A_Avg_SecA                              
+                                               
+                                               
+M_High_A_Avg_SF                                
+                                               
+                                               
+M_High_A_Avg_SH                                
+                                               
+                                               
+M_High_A_Avg_SLG                               
+                                               
+                                               
+M_High_A_Avg_SO                                
+                                               
+                                               
+M_High_A_Avg_SOpct                             
+                                               
+                                               
+M_High_A_Avg_TB                                
+                                               
+                                               
+M_High_A_Avg_teams                             
+                                               
+                                               
+M_High_A_Avg_Tpl                               
+                                               
+                                               
+M_High_A_Avg_wOBA                              
+                                               
+                                               
+M_High_A_Avg_wRAA                              
+                                               
+                                               
+M_High_A_Avg_XBH                               
+                                               
+                                               
+M_High_A_Avg_XBHpct                            
+                                               
+                                               
+Constant                       32.7            
+                             (1,464.9)         
+                                               
+-----------------------------------------------
+Observations                   8,113           
+Log Likelihood               -3,013.0          
+Akaike Inf. Crit.             6,392.0          
+===============================================
+Note:               *p<0.1; **p<0.05; ***p<0.01
+
+AA Logistic Results
+===
+0.9
+---

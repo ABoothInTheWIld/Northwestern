@@ -1,0 +1,132 @@
+
+Rookie Logistic Results
+=============================================
+                      Dependent variable:    
+                  ---------------------------
+                     MLB Career >= 3 Years   
+---------------------------------------------
+Rk_Avg_AB                   0.3***           
+                             (0.1)           
+                                             
+Rk_Avg_AB_HR                 0.000           
+                            (0.001)          
+                                             
+Rk_Avg_Age                  -0.1***          
+                            (0.02)           
+                                             
+Rk_Avg_BABIP                  0.4            
+                             (0.7)           
+                                             
+Rk_Avg_Bavg                   0.3            
+                             (1.1)           
+                                             
+Rk_Avg_BB                    0.5*            
+                             (0.2)           
+                                             
+Rk_Avg_BBpct                 5.3**           
+                             (2.3)           
+                                             
+Rk_Avg_CS                     0.3            
+                             (1.4)           
+                                             
+Rk_Avg_Dbl                   -0.7            
+                             (0.5)           
+                                             
+Rk_Avg_G                    -0.01**          
+                            (0.003)          
+                                             
+Rk_Avg_GDP                    0.2            
+                             (1.1)           
+                                             
+Rk_Avg_H                    0.6***           
+                             (0.1)           
+                                             
+Rk_Avg_HBP                    0.5            
+                             (0.7)           
+                                             
+Rk_Avg_HR                     0.5            
+                             (1.3)           
+                                             
+Rk_Avg_IBB                   -41.7           
+                           (3,642.1)         
+                                             
+Rk_Avg_ISO                  -2.7***          
+                             (0.9)           
+                                             
+Rk_Avg_K_BB                 -0.2***          
+                            (0.03)           
+                                             
+Rk_Avg_OBP                                   
+                                             
+                                             
+Rk_Avg_OPS                    0.1            
+                             (0.1)           
+                                             
+Rk_Avg_orgs                  -3.0            
+                             (2.9)           
+                                             
+Rk_Avg_PA                   0.3***           
+                             (0.1)           
+                                             
+Rk_Avg_R                     -0.1            
+                             (0.1)           
+                                             
+Rk_Avg_RBI                  0.4***           
+                             (0.2)           
+                                             
+Rk_Avg_SB                    -0.2            
+                             (0.6)           
+                                             
+Rk_Avg_SecA                  0.8**           
+                             (0.4)           
+                                             
+Rk_Avg_SF                     1.5            
+                             (1.0)           
+                                             
+Rk_Avg_SH                    -42.4           
+                           (2,197.4)         
+                                             
+Rk_Avg_SLG                    0.1            
+                             (0.3)           
+                                             
+Rk_Avg_SO                   -0.3***          
+                             (0.1)           
+                                             
+Rk_Avg_SOpct                 -28.5           
+                            (661.7)          
+                                             
+Rk_Avg_TB                     0.1            
+                             (0.1)           
+                                             
+Rk_Avg_teams                 -0.4*           
+                             (0.2)           
+                                             
+Rk_Avg_Tpl                   -39.0           
+                           (1,295.8)         
+                                             
+Rk_Avg_wOBA                 3.0***           
+                             (0.9)           
+                                             
+Rk_Avg_wRAA                 0.01***          
+                            (0.01)           
+                                             
+Rk_Avg_XBH                  -0.004           
+                             (0.1)           
+                                             
+Rk_Avg_XBHpct               0.4***           
+                             (0.1)           
+                                             
+Constant                      1.1            
+                             (2.9)           
+                                             
+---------------------------------------------
+Observations                17,103           
+Log Likelihood             -3,487.1          
+Akaike Inf. Crit.           7,048.3          
+=============================================
+Note:             *p<0.1; **p<0.05; ***p<0.01
+
+Rookie Logistic Results
+===
+0.9
+---
